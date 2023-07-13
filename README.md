@@ -35,6 +35,14 @@
 - Move the app to your Applications folder
 - Open the app
 
+## Support
+
+- macOS -> 10.9 Mavericks and above
+- CPU -> Currently only Intel CPUs are supported (AMD support coming soon)
+- Intel CPU Support -> 1st Gen and above (Core Solo, Core Duo, Core 2 Duo, Core 2 Quad and Core 2 Extreme only have partial support)
+- GPU -> Intel integrated, NVIDIA and AMD GPUs are supported
+
+
 ## Screenshots
 
 
