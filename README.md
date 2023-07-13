@@ -28,6 +28,13 @@
 - GPU Memory Type
 - GPU Memory Clock
 
+## Installation
+
+- Download the latest release from [here](https://github.com/nocontent06/OSX-Z/releases)
+- Unzip the file
+- Move the app to your Applications folder
+- Open the app
+
 ## Screenshots
 
 
