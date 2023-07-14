@@ -15,6 +15,7 @@
 - Core Clock
 - Boost Clock
 
+
 - Memory (RAM) Size
 - Memory Clock
 - Memory Type

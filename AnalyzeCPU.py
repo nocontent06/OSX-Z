@@ -13,7 +13,7 @@ brand = brand.split("@")[0].strip()
 # Test Case 1: Intel Xeon E5-2697 v2 @ 2.70GHz
 # Test Case 2: Intel Core i7-7700K
 # Test Case 3: Intel Core Solo T1350 @ 1.86GHz
-brand = "Intel Core Solo T1350 @ 1.86GHz"
+# brand = "Intel Core Solo T1350 @ 1.86GHz"
 
 
 def CPUGeneration(brand):
@@ -80,6 +80,5 @@ def CPUGeneration(brand):
 
     return generation
 
-print(CPUGeneration(brand))
 
 
